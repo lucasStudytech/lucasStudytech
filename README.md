@@ -1,15 +1,11 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
-<br clear="both">
+<h1 align="center">Lucas Costa</h1>
+<h3 align="center">Software Engineer • Backend • DevOps</h3>
 
 <div align="center">
-  <a href="https://br.linkedin.com/in/lucas021?trk=public_profile_browsemap" target="_blank">
+  <a href="https://br.linkedin.com/in/lucas021" target="_blank">
     <img 
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
-      height="25" 
-      alt="LinkedIn do Lucas"
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" 
+      height="25"
     />
   </a>
 </div>
